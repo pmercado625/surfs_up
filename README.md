@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Project Overview
-The purpose of this analysis is to supplement a business proposal to potential investors by aggregating temperature and precipitation data within a readable form and providing accessibility via a flask application.
+The purpose of this analysis is to supplement a business proposal to potential investors by aggregating temperature data within a readable form and providing accessibility via a flask application.
 ## Results
 ![June Results](https://github.com/pmercado625/surfs_up/blob/main/June_stats.png?raw=true)
 ![Dec Results](https://github.com/pmercado625/surfs_up/blob/main/Dec_stats.png?raw=true)  
